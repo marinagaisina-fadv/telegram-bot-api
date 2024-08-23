@@ -1,0 +1,9 @@
+logging:
+  level:
+    web: info
+telegram-bot:
+  token: ${BOT_TOKEN}
+  name: "@java_hakatron_bot"
+
+server:
+ port: 8090
